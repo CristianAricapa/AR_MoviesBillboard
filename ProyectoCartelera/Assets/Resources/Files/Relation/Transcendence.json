@@ -1,0 +1,18 @@
+﻿{
+	"id_reparto":"1",
+	"id_pelicula":"1",
+	"reparto":[
+					{
+						"id_actor":"1",
+						"papel":"as Dr Will Caster"
+					},
+					{
+						"id_actor":"2",
+						"papel":"as Joseph Tagger"
+					},
+					{
+						"id_actor":"3",
+						"papel":"as Evelyn Caster"
+					}
+			]
+}

@@ -1,0 +1,18 @@
+﻿{
+	"id_reparto":"2",
+	"id_pelicula":"2",
+	"reparto":[
+					{
+						"id_actor":"4",
+						"papel":"as Summer Quinn"
+					},
+					{
+						"id_actor":"5",
+						"papel":"as Mitch Buchannon"
+					},
+					{
+						"id_actor":"6",
+						"papel":"as Victoria Leeds"
+					}
+			]
+}

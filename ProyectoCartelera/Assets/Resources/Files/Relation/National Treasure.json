@@ -1,0 +1,18 @@
+﻿{
+	"id_reparto":"3",
+	"id_pelicula":"3",
+	"reparto":[
+					{
+						"id_actor":"7",
+						"papel":"as Benjamin Franklin Gates"
+					},
+					{
+						"id_actor":"8",
+						"papel":"as Dra. Abigail Chase"
+					},
+					{
+						"id_actor":"9",
+						"papel":"as Riley Poole"
+					}
+			]
+}
